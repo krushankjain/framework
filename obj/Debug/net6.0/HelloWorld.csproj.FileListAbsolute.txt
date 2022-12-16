@@ -1,0 +1,15 @@
+H:\Workspace 2\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+H:\Workspace 2\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+H:\Workspace 2\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+H:\Workspace 2\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+H:\Workspace 2\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+H:\Workspace 2\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
